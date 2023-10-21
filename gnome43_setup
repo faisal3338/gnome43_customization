@@ -1,0 +1,267 @@
+[ca/desrt/dconf-editor]
+saved-pathbar-path='/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/'
+saved-view='/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/'
+show-warning=false
+window-height=496
+window-is-maximized=false
+window-width=540
+
+[com/mattjakeman/ExtensionManager]
+last-used-version='0.4.0'
+
+[org/gnome/Chess]
+height=550
+last-played-as='white'
+maximized=true
+width=700
+
+[org/gnome/control-center]
+last-panel='keyboard'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST']
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/faisal/Downloads/HEROSCREEN-WALLPAPER-180923%20(2).png'
+picture-uri-dark='file:///home/faisal/Downloads/HEROSCREEN-WALLPAPER-180923%20(2).png'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[org/gnome/desktop/input-sources]
+current=uint32 0
+mru-sources=[('xkb', 'us'), ('xkb', 'ara')]
+show-all-sources=false
+sources=[('xkb', 'us'), ('xkb', 'ara')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+clock-show-date=true
+color-scheme='prefer-dark'
+enable-animations=true
+font-antialiasing='grayscale'
+font-hinting='slight'
+gtk-theme='WhiteSur-Dark'
+icon-theme='Cupertino-Ventura'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software', 'org-gnome-nautilus', 'gnome-power-panel', 'org-gnome-settings', 'org-gnome-texteditor', 'org-gnome-fileroller', 'org-gnome-tweaks']
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-fileroller]
+application-id='org.gnome.FileRoller.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-settings]
+application-id='org.gnome.Settings.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-texteditor]
+application-id='org.gnome.TextEditor.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-tweaks]
+application-id='org.gnome.tweaks.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/touchpad]
+click-method='fingers'
+edge-scrolling-enabled=false
+tap-to-click=true
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+report-technical-problems=true
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/blobs-l.svg'
+primary-color='#241f31'
+secondary-color='#000000'
+
+[org/gnome/desktop/wm/keybindings]
+show-desktop=['<Super>d']
+switch-input-source=['<Alt>Shift_L', '<Alt>Shift_R']
+switch-input-source-backward=['<Alt>Shift_L', '<Alt>Shift_R']
+switch-windows=['<Alt>Tab']
+
+[org/gnome/desktop/wm/preferences]
+button-layout='close,minimize,maximize:appmenu'
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/file-roller/dialogs/extract]
+recreate-folders=true
+skip-newer=false
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=250
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[org/gnome/maps]
+last-viewed-location=[0.0, 0.0]
+map-type='MapsStreetSource'
+transportation-type='pedestrian'
+window-maximized=true
+zoom-level=2
+
+[org/gnome/nautilus/compression]
+default-compression-format='zip'
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=false
+
+[org/gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Control><Alt>t'
+command='gnome-terminal'
+name='Terminal'
+
+[org/gnome/shell]
+disable-user-extensions=false
+disabled-extensions=@as []
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'compiz-windows-effect@hermes83.github.com', 'gnome-ui-tune@itstime.tech', 'cpufreq@konkor', 'dash-to-dock@micxgx.gmail.com', 'clipboard-indicator@tudmotu.com', 'caffeine@patapon.info', 'just-perfection-desktop@just-perfection', 'widgets@aylur']
+welcome-dialog-last-shown-version='43.6'
+
+[org/gnome/shell/extensions/aylurs-widgets]
+background-clock=false
+background-clock-position=4
+battery-bar=false
+dash-board=false
+dash-links-names=['reddit', 'youtube', 'gmail', 'twitter', 'github']
+dash-links-urls=['https://www.reddit.com/', 'https://www.youtube.com/', 'https://www.gmail.com/', 'https://twitter.com/', 'https://www.github.com/']
+date-menu-tweaks=false
+dynamic-panel-floating-style=true
+media-player=false
+notification-indicator=false
+quick-settings-style=1
+workspace-indicator=false
+workspace-indicator-offset=2
+workspace-indicator-show-names=false
+
+[org/gnome/shell/extensions/caffeine]
+indicator-position-max=1
+
+[org/gnome/shell/extensions/clipboard-indicator]
+strip-text=false
+toggle-menu=['<Super>v']
+
+[org/gnome/shell/extensions/cpufreq]
+save-settings=true
+units-show=false
+user-profile='{"name":"Saved settings","minf":17,"maxf":100,"turbo":true,"cpu":12,"acpi":false,"guid":"user","core":[{"g":"powersave","a":800000,"b":2600000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000},{"g":"powersave","a":800000,"b":4500000}]}'
+window-height=720
+window-maximized=false
+window-width=606
+window-x=0
+window-y=0
+
+[org/gnome/shell/extensions/dash-to-dock]
+apply-custom-theme=false
+background-opacity=0.38
+custom-background-color=false
+custom-theme-shrink=true
+dash-max-icon-size=48
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.90000000000000002
+hide-tooltip=false
+icon-size-fixed=true
+intellihide-mode='FOCUS_APPLICATION_WINDOWS'
+middle-click-action='launch'
+multi-monitor=true
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+preview-size-scale=0.67000000000000004
+scroll-action='do-nothing'
+shift-click-action='minimize'
+shift-middle-click-action='launch'
+show-apps-at-top=false
+show-mounts-network=false
+transparency-mode='DYNAMIC'
+
+[org/gnome/shell/extensions/user-theme]
+name='WhiteSur-Dark'
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/software]
+check-timestamp=int64 1697870881
+first-run=false
+install-timestamp=int64 1697801805
+online-updates-timestamp=int64 1697801737
+update-notification-timestamp=int64 1697801843
+
+[org/gnome/system/location]
+enabled=false
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=140
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-size=(845, 323)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=183
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(26, 23)
+window-size=(1203, 989)
+
+[system/proxy]
+mode='none'
